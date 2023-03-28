@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do JuaumVK 😁
+## Bem-vindo(a) ao meu perfil, me chamo João 😁
 
  <div>
    <a href="https://github.com/JuaumVK">
